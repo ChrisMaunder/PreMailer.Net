@@ -152,3 +152,7 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 PreMailer.Net/coverage.xml
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/PreMailer.Net/PreMailer.Net/.vs
+/PreMailer.Net/.vs

@@ -2,7 +2,7 @@
 <package >
 	<metadata>
 		<id>PreMailer.Net</id>
-		<version>1.5.5</version>
+		<version>1.5.5-CP</version>
 		<authors>Martin H. Normark</authors>
 		<owners>milkshakesoftware</owners>
 		<licenseUrl>https://github.com/milkshakesoftware/PreMailer.Net/blob/master/LICENSE</licenseUrl>
@@ -10,7 +10,9 @@
 		<iconUrl>https://github.com/milkshakesoftware/PreMailer.Net/raw/master/icon.png</iconUrl>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<description>
-			PreMailer.Net is a C# utility for moving CSS to inline style attributes, to gain maximum E-mail client compatibility.
+			PreMailer.Net is a C# utility for moving CSS to inline style attributes, to gain maximum 
+      E-mail client compatibility. Modified for CodeProject to ensure no locking to a specific
+      AngleSharp version.
 		</description>
 		<releaseNotes>
 			Fix missing method exception https://github.com/milkshakesoftware/PreMailer.Net/issues/130
